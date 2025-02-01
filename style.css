@@ -27,6 +27,7 @@ body {
 
 img {
     max-width: 100%;
+    align-items: center;
 }
 
 footer {
@@ -34,4 +35,4 @@ footer {
     padding: 10px;
     background-color: #333;
     color: #fff;
-}
+} 
